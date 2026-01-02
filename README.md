@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-### Framework / Library
-- 
 
 ### Tool
 - [vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -22,14 +20,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 
----
 
-## 📫 Contact
-- 📧 Email: 
-- 💬 GitHub: https://github.com/아이디
 
 ---
 
