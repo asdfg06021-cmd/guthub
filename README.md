@@ -17,7 +17,7 @@
 - 
 
 ### Tool
-- [vscode] [GIT]
+- [vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) [GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
